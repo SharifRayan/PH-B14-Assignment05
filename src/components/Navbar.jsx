@@ -14,7 +14,7 @@ function Navbar() {
 
         {/* Logo */}
         <a href="#home">
-          <img src="/assets/logo-text.png" alt="Dev Stack" className="h-9" />
+          <img src="./assets/logo-text.png" alt="Dev Stack" className="h-9" />
         </a>
 
         {/* Menu bar */}
